@@ -44,3 +44,4 @@ const compress = (str) => {
 
 console.log(compress('yyy'))
 console.log(compress('bbiinnsskk'))
+console.log(compress('ccccccckkkkkkmmmmmsssss'))
